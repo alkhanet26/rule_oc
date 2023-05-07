@@ -1,0 +1,38 @@
+# Ads in Video apps
+payload:
+# > Ip Indo
+  - DOMAIN-SUFFIX,vidio.com
+  - DOMAIN-SUFFIX,vidiocdn.com
+  - DOMAIN-SUFFIX,personalization.vidio.com
+  - DOMAIN-SUFFIX,plenty.vidio.com
+  - DOMAIN-SUFFIX,static-web.prod.vidiocdn.com
+  - DOMAIN-SUFFIX,static-playback.prod.vidiocdn.com
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,netflixdnstest0.com
+  - DOMAIN-SUFFIX,netflixdnstest1.com
+  - DOMAIN-SUFFIX,netflixdnstest2.com
+  - DOMAIN-SUFFIX,netflixdnstest3.com
+  - DOMAIN-SUFFIX,netflixdnstest4.com
+  - DOMAIN-SUFFIX,netflixdnstest5.com
+  - DOMAIN-SUFFIX,netflixdnstest6.com
+  - DOMAIN-SUFFIX,netflixdnstest7.com
+  - DOMAIN-SUFFIX,netflixdnstest8.com
+  - DOMAIN-SUFFIX,netflixdnstest9.com
+  - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,huluim.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbo.com
+
+# > ewallet & online shop
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,tokopedia.com
+  - DOMAIN-SUFFIX,lazada.com
+  - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,hbo.com
